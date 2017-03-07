@@ -1,4 +1,4 @@
-update=3/7/2017 11:07:07 AM
+update=3/7/2017 3:45:54 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=library_MS_robot
+LibDir=library_MS_robot;../../../../../Program Files/KiCad/share/kicad/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=library_MS_robot/arduinomicro
 LibName31=library_MS_robot/library
+LibName32=switches
+LibName33=diode
+LibName34=ir
